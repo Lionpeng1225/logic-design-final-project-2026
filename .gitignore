@@ -1,0 +1,13 @@
+# Simulator-generated output
+*.vcd
+*.fsdb
+*.log
+*.history
+*.key
+simv*
+novas*
+nWaveLog/
+vfastLog/
+xcelium.d/
+csrc/
+BSSLib.lib++/
